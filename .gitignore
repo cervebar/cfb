@@ -1,0 +1,55 @@
+# Java specific
+*.class
+target/
+.mvn
+bin/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Eclipse
+.project
+.metadata
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# IDEA
+.idea
+*.iml
+
+# Spring
+.springBeans
+
+# Node.js
+node
+node_modules
+npm-debug.log
+bundle.js
+
+# Python
+.pydevproject
+*.pyc
+
+# Mac
+.DS_Store
+
+# Robot framework
+libspecs/
+report.html
+output.xml
+log.html
+red.xml
+
+# Vagrant
+.vagrant
+vagrant/ssh.config
+
+# logs
+*.log

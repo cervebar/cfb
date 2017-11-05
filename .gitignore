@@ -27,11 +27,12 @@ local.properties
 # Spring
 .springBeans
 
-# Node.js
+#Javascript &  Node.js
 node
 node_modules
 npm-debug.log
 bundle.js
+www/bundle.js
 
 # Python
 .pydevproject
